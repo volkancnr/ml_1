@@ -32,6 +32,8 @@ SONUÇLAR:
 
 Hava durumu yol durumu hız limiti haftanın günü gibi vb. değişkenler göz önünde bulundurularak kaza riski tahmin edilebilir diyebiliriz.
 
+Data= https://www.kaggle.com/datasets/daveianhickey/2000-16-traffic-flow-england-scotland-wales
+
 
 
 
